@@ -8,7 +8,6 @@ img = ImageGrab.grabclipboard()
 
 print(img)
 
-
 str(img)
 img_bytes = io.BytesIO()
 
@@ -26,8 +25,4 @@ with open(input_path, 'rb') as i:
         input = i.read()
         output = remove(input)
         o.write(output)
-
-
-
-
 

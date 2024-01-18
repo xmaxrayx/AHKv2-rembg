@@ -1,14 +1,15 @@
 # AHKv2 rembg
+
  Remove image background more easily via AHKv2 with Rembg tool.
- 
+
 # Author
+
 - [xMaxrayx](https://github.com/xMaxrayx)
 
-# Requarments
+# Requarments :
 - [Rembg](https://github.com/danielgatis/rembg)
 - [AHK v2](https://www.autohotkey.com/)
 - [Python 3.10](https://www.python.org)  
-
 
 
 # libraryes :
